@@ -83,3 +83,7 @@ example/macos/Flutter/GeneratedPluginRegistrant.swift
 
 # Coverage files
 coverage/
+
+.DS_Store
+**/.DS_Store
+.DS_Store?
